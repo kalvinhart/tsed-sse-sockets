@@ -27,6 +27,8 @@
     "@tsed/platform-response-filter": "^7.2.3",
     "@tsed/platform-views": "^7.2.3",
     "@tsed/schema": "^7.2.3",
+    "@tsed/socketio": "^7.2.3",
+    "@tsed/swagger": "^7.2.3",
     "ajv": "^8.11.0",
     "barrelsby": "^2.5.1",
     "body-parser": "^1.20.1",
@@ -38,7 +40,8 @@
     "dotenv-expand": "^9.0.0",
     "dotenv-flow": "^3.2.0",
     "express": "^4.18.2",
-    "method-override": "^3.0.0"
+    "method-override": "^3.0.0",
+    "socket.io": "^4.5.3"
   },
   "tsed": {
     "packageManager": "npm",
